@@ -1,0 +1,212 @@
+[
+    {
+        "name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+        "img": "https://img-c.udemycdn.com/course/480x270/567828_67d0.jpg",
+        "instructor": "Jose Portilla",
+        "rating": 4.6,
+        "peopleRated": "383,841",
+        "previousPrice": 89.99,
+        "discountedPrice": 13.99
+    },
+    {
+        "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "img": "https://img-c.udemycdn.com/course/480x270/950390_270f_3.jpg",
+        "instructor": "Kirill Eremenko",
+        "rating": 4.5,
+        "peopleRated": "151,031",
+        "previousPrice": 139.99,
+        "discountedPrice": 19.99
+    },
+    {
+        "name": "Python for Data Science and Machine Learning Bootcamp",
+        "img": "https://img-c.udemycdn.com/course/480x270/903744_8eb2.jpg",
+        "instructor": "Jose Portilla",
+        "rating": 4.7,
+        "peopleRated": "105,186",
+        "discountedPrice": 58.99
+    },
+    {
+        "name": "Learn Python Programming Masterclass",
+        "img": "https://img-c.udemycdn.com/course/480x270/629302_8a2d_2.jpg",
+        "instructor": "Tim Buchalka",
+        "rating": 4.5,
+        "peopleRated": "81,571",
+        "previousPrice": 89.99,
+        "discountedPrice": 13.99
+    },
+    {
+        "name": "The Python Mega Course: Build 10 Real World Applications",
+        "img": "https://img-c.udemycdn.com/course/480x270/692188_9da7_21.jpg",
+        "instructor": "Ardit Sulce",
+        "rating": 4.6,
+        "peopleRated": "52,902",
+        "previousPrice": 59.99,
+        "discountedPrice": 17.99
+    },
+    {
+        "name": "Git & GitHub - The Practical Guide",
+        "img": "https://img-c.udemycdn.com/course/480x270/4188320_d3e3_3.jpg",
+        "instructor": "Academind",
+        "rating": 4.7,
+        "peopleRated": "570",
+        "discountedPrice": 37.99
+    },
+    {
+        "name": "Web Developer Bootcamp with Flask and Python",
+        "img": "https://img-c.udemycdn.com/course/480x270/631128_2efb_6.jpg",
+        "instructor": "Clarian North",
+        "rating": 4.2,
+        "peopleRated": "178",
+        "previousPrice": 29.99,
+        "discountedPrice": 149.99
+    },
+    {
+        "name": "Low Poly Landscapes - Blender Bite Sized Course",
+        "img": "https://img-c.udemycdn.com/course/480x270/4258538_1994.jpg",
+        "instructor": "GameDev Team",
+        "rating": 5.0,
+        "peopleRated": "182",
+        "previousPrice": 199.99,
+        "discountedPrice": 49.99
+    },
+    {
+        "name": "TOTAL: CompTIA Security+ Certification (SY0-601)",
+        "img": "https://img-c.udemycdn.com/course/480x270/4172946_c417_2.jpg",
+        "instructor": "GameDev Team",
+        "rating": 4.6,
+        "peopleRated": "1,105",
+        "previousPrice": 89.99,
+        "discountedPrice": 29.99
+    },
+    {
+        "name": "Terraform for the Absolute Beginners with Labs",
+        "img": "https://img-c.udemycdn.com/course/480x270/4226208_6500_4.jpg",
+        "instructor": "Mumshad Mannambeth",
+        "rating": 4.3,
+        "peopleRated": "73",
+        "previousPrice": 179.99,
+        "discountedPrice": 34.99
+    },
+    {
+        "name": "Advanced AI: Deep Reinforcement Learning in Python",
+        "img": "https://img-c.udemycdn.com/course/480x270/1153742_e649.jpg",
+        "instructor": "Lazy Programmer Team",
+        "rating": 4.9,
+        "peopleRated": "53,491",
+        "discountedPrice": 179.99
+    },
+    {
+        "name": "Data Science: Natural Language Processing (NLP) in Python",
+        "img": "https://img-c.udemycdn.com/course/480x270/753140_f3f3_2.jpg",
+        "instructor": "Robot Inc",
+        "rating": 4.1,
+        "peopleRated": "117,291",
+        "previousPrice": 319.99,
+        "discountedPrice": 99.99
+    },
+    {
+        "name": "Azure Databricks & Spark Core For Data Engineers(Python/SQL)",
+        "img": "https://img-c.udemycdn.com/course/480x270/4182538_bdf1_2.jpg",
+        "instructor": "Ramesh Retnasamy",
+        "rating": 5.0,
+        "peopleRated": "217,541",
+        "previousPrice": 129.99,
+        "discountedPrice": 49.99
+    },
+    {
+        "name": "A deep understanding of deep learning (with Python intro)",
+        "img": "https://img-c.udemycdn.com/course/480x270/4221858_0d53_2.jpg",
+        "instructor": "Mike X Cohen",
+        "rating": 4.8,
+        "peopleRated": "229",
+        "previousPrice": 39.99,
+        "discountedPrice": 19.99
+    },
+    {
+        "name": "The Complete JavaScript Course 2021: From Zero to Expert!",
+        "img": "https://img-c.udemycdn.com/course/480x270/851712_fc61_6.jpg",
+        "instructor": "Jonas Schwenstegar",
+        "rating": 4.1,
+        "peopleRated": "116,047",
+        "discountedPrice": 89.99
+    },
+    {
+        "name": "Modern JavaScript From The Beginning",
+        "img": "https://img-c.udemycdn.com/course/480x270/364426_2991_6.jpg",
+        "instructor": "Anthony Alicea",
+        "rating": 4.3,
+        "peopleRated": "229",
+        "previousPrice": 129.99,
+        "discountedPrice": 99.99
+    },
+    {
+        "name": "JavaScript - The Complete Guide 2021 (Beginner + Advanced)",
+        "img": "https://img-c.udemycdn.com/course/480x270/2508942_11d3_3.jpg",
+        "instructor": "Academind",
+        "rating": 4.9,
+        "peopleRated": "313,239",
+        "previousPrice": 499.99,
+        "discountedPrice": 299.99
+    },
+    {
+        "name": "The Modern Javascript Bootcamp Course (2021)",
+        "img": "https://img-c.udemycdn.com/course/480x270/2634490_e343_2.jpg",
+        "instructor": "Stephen Grider",
+        "rating": 3.9,
+        "peopleRated": "103,119",
+        "previousPrice": 59.99,
+        "discountedPrice": 29.99
+    },
+    {
+        "name": "ES6 Javascript: The Complete Developer's Guide",
+        "img": "https://img-c.udemycdn.com/course/480x270/861624_864d_2.jpg",
+        "instructor": "Stephen Grider",
+        "rating": 4.7,
+        "peopleRated": "293,119",
+        "previousPrice": 399.99,
+        "discountedPrice": 119.99
+    },
+    {
+        "name": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "img": "https://img-c.udemycdn.com/course/480x270/3671332_b86a.jpg",
+        "instructor": "Brad Traversy",
+        "rating": 5.0,
+        "peopleRated": "413,259",
+        "previousPrice": 229.99,
+        "discountedPrice": 179.99
+    },
+    {
+        "name": "Accelerated ES6 JavaScript Training",
+        "img": "https://img-c.udemycdn.com/course/480x270/886614_68cc_2.jpg",
+        "instructor": "Ercan Murat KISACA",
+        "rating": 4.5,
+        "peopleRated": "2,435",
+        "discountedPrice": 109.99
+    },
+    {
+        "name": "Environment Art School: Complete Perspective Drawing Course",
+        "img": "https://img-c.udemycdn.com/course/480x270/2068907_8958.jpg",
+        "instructor": "Scott Hrris",
+        "rating": 3.9,
+        "peopleRated": "99,432",
+        "discountedPrice": 89.99
+    },
+    {
+        "name": "How to Draw and Sketch for Absolute Beginners pt 1",
+        "img": "https://img-c.udemycdn.com/course/480x270/1047436_97b3.jpg",
+        "instructor": "Rich Graysonn",
+        "rating": 3.5,
+        "peopleRated": "107,753",
+        "previousPrice": 219.99,
+        "discountedPrice": 109.99
+    },
+    {
+        "name": "Masterclass of Realistic Drawing and Shading Human Features",
+        "img": "https://img-c.udemycdn.com/course/480x270/2236156_e14f_4.jpg",
+        "instructor": "Ian Shawn",
+        "rating": 4.2,
+        "peopleRated": "819,761",
+        "previousPrice": 619.99,
+        "discountedPrice": 239.99
+    }
+]
